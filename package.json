@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sinandmr/PCAT.git"
+    "url": "git+https://github.com/sinandmr/pcatGalleryApp.git"
   },
   "keywords": [
     "photo",
@@ -18,9 +18,9 @@
   "author": "Sinan Demir",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sinandmr/PCAT/issues"
+    "url": "https://github.com/sinandmr/pcatGalleryApp/issues"
   },
-  "homepage": "https://github.com/sinandmr/PCAT#readme",
+  "homepage": "https://github.com/sinandmr/pcatGalleryApp#readme",
   "devDependencies": {
     "nodemon": "^2.0.15",
     "prettier": "2.5.0"
